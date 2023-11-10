@@ -32,11 +32,7 @@ Analysis of CSCI and Math department is taking place, working towards analyzing 
 - We invite interested Queens College students and faculty to contribute and help us improve this project. Please feel free to submit issues, fork the repository and send pull requests!
 
 ## Getting Started
-Clone the project to your local machine for development and testing:
-
-``` python 
-git clone https://github.com/your_username/QC-Grade-Distribution.git
-```
+Open the relevant notebook for the subject you are looking for. If you want the interactive plots, download the relvant html file for the subject you are looking for.  
 
 ## Licensing
 This project is licensed under the MIT License. See the LICENSE.md file for details.
